@@ -27,7 +27,7 @@ Files:
 Generate a wind rose diagram from meteorological data to estimate the prevailing wind direction in different months of the year.
 
 Key Tasks:
--Download and read wind data from a meteorological station.
+- Download and read wind data from a meteorological station.
 - Convert wind speed from knots to m/s.
 - Select a random year and data from a 10-year period.
 - Create the wind rose diagram and label it with relevant information such as your name, computer name, and execution date.
