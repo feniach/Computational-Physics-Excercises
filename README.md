@@ -17,6 +17,7 @@ Key Tasks:
 - Plot the number of nanoparticles in one section over time and compare the results to the theoretical curve.
 - Modify the initial conditions by distributing the nanoparticles randomly based on an ASCII sum of the student's name and surname.
 - Analyze and discuss the results for different initial conditions and nanoparticle counts.
+
 Files:
 - MATLAB code for the simulation (nanoparticles.m)
 - Generated plots in PNG format
@@ -31,6 +32,7 @@ Key Tasks:
 - Select a random year and data from a 10-year period.
 - Create the wind rose diagram and label it with relevant information such as your name, computer name, and execution date.
 - Calculate and display the prevailing wind direction for the spring or winter months based on the student ID number.
+
 Files:
 - MATLAB code for generating the wind rose (windrose_chronopoulou.m)
 - Generated wind rose diagram in PNG format
@@ -53,6 +55,7 @@ Key Tasks:
 - Use the Weibull distribution to model wind speed data and estimate the parameters (C and k).
 - Plot the wind speed distribution and the fitted Weibull curve.
 - Display the parameters C and k on the graph along with the period of the data.
+
 Files:
 - MATLAB code for the Weibull distribution fitting (weibull_chronopoulou.m)
 - Generated plot of the Weibull distribution in PNG format
